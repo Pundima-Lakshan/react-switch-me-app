@@ -33,5 +33,4 @@ module.exports = {
     },
   },
   plugins: [],
-  base: "/react-switch-me-app/",
 };
